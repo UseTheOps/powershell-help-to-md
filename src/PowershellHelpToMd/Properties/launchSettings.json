@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowershellHelpToMd": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\git-dev\\EquihiraPowerShell\\EquihiraPowershell\\EquihiraPowershell\\bin\\Debug\\netstandard2.0\\AltazionPowershell.dll-Help.xml"
+    }
+  }
+}
